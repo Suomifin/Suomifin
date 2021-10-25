@@ -13,12 +13,12 @@
 ### >> Java [Vähän]
 
 ## Käyttämäni sovellukset, käyttöjärjestelmät ja työkalut
->> Windows 10
->> VsCode
->> NetBeans Ide
->> Xampp
->> Discord
->> Firefox
+### >> Windows 10
+### >> VsCode
+### >> NetBeans Ide
+### >> Xampp
+### >> Discord
+### >> Firefox
 
 <!--
 **Suomifin/Suomifin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
