@@ -4,8 +4,8 @@
 Moro
 
 ### -Website: https://suomifin.net
--📫 Email: suomifin@suomifin.net
--💬 Discord: Suomifin#3713
+### -📫 Email: suomifin@suomifin.net
+### -💬 Discord: Suomifin#3713
 
 <!--
 **Suomifin/Suomifin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
