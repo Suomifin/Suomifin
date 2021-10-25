@@ -1,12 +1,9 @@
 ### Moro 👋
 
-### ---------
 
 ### -Website: https://suomifin.net
 ### -📫 Email: suomifin@suomifin.net
 ### -💬 Discord: Suomifin#3713
-
-### ---------
 
 ## Osaamani koodikielet:
 ### >> PhP [Vähän]
