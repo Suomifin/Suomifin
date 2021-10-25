@@ -6,6 +6,17 @@
 ### -📫 Email: suomifin@suomifin.net
 ### -💬 Discord: Suomifin#3713
 
+### ---------
+
+## Osaamani koodikielet:
+### >> PhP [Vähän]
+### >> Css
+### >> Html
+### >> Js [Vähän]
+### >> Java [Vähän]
+
+## Käyttämäni sovellukset. käyttöjärjestelmät ja työkalut
+
 <!--
 **Suomifin/Suomifin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
