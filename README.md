@@ -14,7 +14,7 @@
 ### >> C# [Harjoittelen]
 
 ## Käyttämäni sovellukset, käyttöjärjestelmät ja työkalut
-### >> Windows 10
+### >> Windows 11  & 10
 ### >> VsCode
 ### >> NetBeans Ide
 ### >> Xampp
