@@ -11,6 +11,7 @@
 ### >> Html
 ### >> Js [Vähän]
 ### >> Java [Vähän]
+### >> C# [Harjoittelen]
 
 ## Käyttämäni sovellukset, käyttöjärjestelmät ja työkalut
 ### >> Windows 10
