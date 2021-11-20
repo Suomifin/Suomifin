@@ -16,10 +16,20 @@
 ## Käyttämäni sovellukset, käyttöjärjestelmät ja työkalut
 ### >> Windows 11  & 10
 ### >> VsCode
+### >> Ubuntu
 ### >> NetBeans Ide
 ### >> Xampp
 ### >> Discord
 ### >> Firefox
+
+
+## Mielestäni parhaat linux palvelin sovellukset, käyttöjärjsestelmät ja ojelmistot!
+### >> Pterodactyl panel
+### >> Nginx
+### >> Mysql
+### >> Plesk
+### >> PhPMyAdmin
+### >> Ubuntu
 
 <!--
 **Suomifin/Suomifin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
